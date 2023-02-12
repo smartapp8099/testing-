@@ -1,0 +1,38 @@
+{
+     "encodecollections": {
+    "009890": "se_doc_head_purchase",
+    "009891": "se_doc_head_sales",
+    "009192": "se_doc_lines_sales",
+    "009893": "se_formfieldconfig",
+    "009894": "se_formFields",
+    "009834": "se_forms",
+    "009895": "se_material_master",
+    "009898": "se_prdts_master",
+    "009897": "se_lookups",
+    "009833": "se_doc_lines_purchase",
+    "009854": "se_metadata",
+    "009578": "se_entity_data",
+    "009533": "se_attendance"
+},
+
+ "decodecollections" : {
+    "se_doc_head_purchase":"009890",
+     "se_doc_head_sales":"009891",
+    "se_doc_lines_sales":"009192",
+     "se_formfieldconfig":"009893",
+     "se_formFields" : "009894",
+     "se_forms" : "009834",
+    "se_material_master" : "009895",
+     "se_prdts_master" : "009898",
+     "se_lookups" : "009897",
+     "se_doc_lines_purchase": "009833",
+     "se_metadata":"009854",
+     "se_entity_data":"009578",
+     "se_attendance":"009533"
+},
+
+ "forms" : {
+    "90000":"form_lookups",
+    "90001":"form_materialmaster"
+}
+}

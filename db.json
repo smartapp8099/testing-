@@ -1,0 +1,36 @@
+{
+  "programs": [
+    {
+      "client": "custom",
+      "programType": "custom",
+      "programName": "Example 002",
+      "programID": "002",
+      "date": {
+        "year": 2020,
+        "month": 7,
+        "day": 9
+      },
+      "UserRole": "custom",
+      "username": "example@gmail.com"
+    },
+    {
+      "client": "custom",
+      "programType": "custom",
+      "programName": "Example 001",
+      "programID": "001",
+      "date": {
+        "year": 2020,
+        "month": 7,
+        "day": 10
+      },
+      "UserRole": "custom",
+      "username": "sss@gmail.com"
+    }
+  ],
+  "organizations": [
+
+  ],
+  "users": [
+    
+  ]
+}
